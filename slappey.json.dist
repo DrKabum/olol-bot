@@ -1,0 +1,7 @@
+{
+  "name": "olol-bot",
+  "language": "javascript",
+  "manager": "npm",
+  "token": "BOT_TOKEN_HERE",
+  "prefix": "$"
+}
